@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cambium", "Cambium\Cambium.csproj", "{B4E27C7A-EFD6-4993-BB6A-5B08818D834E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRover", "TestRover\TestRover.csproj", "{5521B0BB-6FE4-4923-9460-02378324BB95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4E27C7A-EFD6-4993-BB6A-5B08818D834E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4E27C7A-EFD6-4993-BB6A-5B08818D834E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4E27C7A-EFD6-4993-BB6A-5B08818D834E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4E27C7A-EFD6-4993-BB6A-5B08818D834E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5521B0BB-6FE4-4923-9460-02378324BB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5521B0BB-6FE4-4923-9460-02378324BB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5521B0BB-6FE4-4923-9460-02378324BB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5521B0BB-6FE4-4923-9460-02378324BB95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52C0859F-C235-4F58-BF8F-5337A940797E}
+	EndGlobalSection
+EndGlobal
